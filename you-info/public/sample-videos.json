@@ -1,0 +1,17 @@
+{
+  "videos": [
+    {
+      "title": "How to Build a React App",
+      "channel": "Code Explained",
+      "views": "1.2M",
+      "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+    },
+    {
+      "title": "Top 10 CSS Tricks You Didn't Know",
+      "channel": "DesignCourse",
+      "views": "850K",
+      "thumbnail": "https://i.ytimg.com/vi/tgbNymZ7vqY/hqdefault.jpg"
+    }
+  ],
+  "nextPageToken": "abc123"
+}

@@ -32,8 +32,8 @@ const NavigationDrawer = () => {
           <a href="/about" className="hover:text-blue-600">About Us</a>
           <a href="/contact" className="hover:text-blue-600">Contact Us</a>
           <a href="/privacy" className="hover:text-blue-600">Privacy Policy</a>
-          <a href="/contact" className="hover:text-blue-600">Terms of Use</a>
-          <a href="/privacy" className="hover:text-blue-600">Disclaimer</a>
+          <a href="/terms" className="hover:text-blue-600">Terms of Use</a>
+          <a href="/disclaimer" className="hover:text-blue-600">Disclaimer</a>
         </nav>
       </div>
 
